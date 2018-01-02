@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micservice-registoer-demo/micservice-registoer-demo.iml" filepath="$PROJECT_DIR$/micservice-registoer-demo/micservice-registoer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-cousumer-demo/service-cousumer-demo.iml" filepath="$PROJECT_DIR$/service-cousumer-demo/service-cousumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider-demo/service-provider-demo.iml" filepath="$PROJECT_DIR$/service-provider-demo/service-provider-demo.iml" />
+    </modules>
+  </component>
+</project>

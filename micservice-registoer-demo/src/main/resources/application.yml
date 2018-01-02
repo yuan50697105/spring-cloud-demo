@@ -1,0 +1,8 @@
+server:
+  port: 1000
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      default-zone: http://127.0.0.1:${server.port}/eureka/
